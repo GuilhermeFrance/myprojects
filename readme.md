@@ -1,1 +1,1 @@
-# Essa é minha pasta de projetos
+# Olá, seja bem-vindo à minha pasta de projetos e estudos.
