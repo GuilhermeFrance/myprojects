@@ -1,0 +1,117 @@
+   @font-face {
+        font-family: 'queensila';
+        src: url(monof55.ttf) format(opentype);
+        font-weight: normal;
+        font-style: normal;
+
+        font-family: 'timeless';
+        src: url(Caver\ Pitalsal.ttf) format(truetype);
+        font-weight: normal;
+        font-style: normal;
+    }    
+        /* Tipos de format()
+        - opentype
+        - truetype
+        - embedded-opentype
+        - truetype-aat (Apple Advanced Typograph)
+        -svg
+
+        */
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    body{
+
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        margin: 0;
+        
+    }
+    h1{
+        margin: 0;
+        margin-bottom: 15px;
+        margin-left: 20px;
+        margin-bottom: 80px;
+        font-family: 'timeless';
+    }
+    p{
+        font-size: 17px;
+        margin-top: 20px;
+        margin-left: 800px;
+        text-align: left;
+ 
+    }
+    header{
+
+        background-image: linear-gradient(to right, purple, rgb(107, 1, 18) );
+        background-color: #770b92;
+        min-width: 1000px;
+        min-height: 120px;
+        margin-bottom: 80px;
+        align-items: center;
+
+
+ 
+    }
+    a{
+        margin-left: 5px;
+        margin-bottom: 0px;
+    }
+    header > h1 {
+
+        color: aliceblue;
+        text-align: center;
+        
+    }
+    header > img{
+
+        margin: -90px 30px;
+        width: 50px;
+        height: 50px;
+    }
+    h2{
+        
+        
+        font-size: 26px;
+        margin-left: 800px;
+        color:#770b92;
+        padding: 1px;
+        margin-right: 700px;
+        background-color: rgb(253, 244, 251);
+        border-radius: 15px;
+        
+    }
+    .css img{
+
+        border: 3px solid;
+        margin-left: 550px;
+        transform: scale(1.25);
+        background-image: linear-gradient(to left, red, blue);    
+        border-radius: 100px;
+        border-color: #770b92;
+
+
+
+    }
+    #redessociais {
+        font-size: 22px;
+        margin-top: 60px;
+        margin-bottom: 22px;
+        color: #770b92;
+        padding: 1px;
+        background-color: rgb(253, 244, 251);
+        margin-right: 520px;
+    }
+    #linkinst {
+        color: blueviolet;
+        margin-top: -40px;
+    }     
+    #linktwt {
+        color: rgb(0, 158, 250);
+        margin-top: -40px;
+    }    
+    #linkyt {
+        color: rgb(255, 0, 0);
+        margin-top: -40px;
+    }      
